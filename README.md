@@ -9,25 +9,25 @@
     
 ## Opis gry
 
-Zasady gry singleplayer:
+    Zasady gry singleplayer:
 
-Gra toczy się dopóki saldo Twojego konta jest większe 
-od $0.
+    Gra toczy się dopóki saldo Twojego konta jest większe 
+    od $0.
 
-Zasady gry multiplayer:
+    Zasady gry multiplayer:
 
-Na starcie gracze otrzymują po $1000.
-Gra toczy sie, dopoki jeden z graczy 
-nie zbankrutuje (saldo jego konta dojdzie
-do $0) Wygrywa osoba z większym saldem.
+    Na starcie gracze otrzymują po $1000.
+    Gra toczy sie, dopoki jeden z graczy 
+    nie zbankrutuje (saldo jego konta dojdzie
+    do $0) Wygrywa osoba z większym saldem.
 
-Ekonomia gry:
+    Ekonomia gry:
 
-Nie odgadnięcie hasła: -$500
-Kupno litery: -$200
-Błędna litera: -$100
-Odgadnięcie hasła (litery): +$50
-Odgadnięcie hasła (słowo): +$100
+    Nie odgadnięcie hasła: -$500
+    Kupno litery: -$200
+    Błędna litera: -$100
+    Odgadnięcie hasła (litery): +$50
+    Odgadnięcie hasła (słowo): +$100
 
 ## Moduły programu
 
